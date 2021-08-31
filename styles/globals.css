@@ -4,7 +4,7 @@ body {
   background: #f4e640;
   margin: 0;
   font-family: 'Roboto';
-  font-size: 1.5rem;
+  font-size: 1.5em;
 }
 .layout {
   min-height: 100vh;
